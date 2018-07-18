@@ -1,1 +1,1 @@
-# android.multi-language_string.java.grep_and_paste_string
+AN simple java code to copy existing UI string of another AOSP project to self project for android multi-language string.
